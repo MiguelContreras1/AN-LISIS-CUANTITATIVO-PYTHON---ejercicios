@@ -1,0 +1,605 @@
+Departamento,Municipio,Código Dane Municipio,Latitud,Longitud,Rango FT,Condición FT,Rango FD,Condición FD,Rango FM,Condición FM,Rango FF,Condición FF
+CALDAS,NEIRA,17486,5.183358589,-75.50692977,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,LA CRUZ,52378,1.584175998,-76.92335262,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,PITAL,41548,2.259601773,-75.8319516,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,ALPUJARRA,73024,3.390015064,-74.94078233,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,AMALFI,5031,6.977788843,-74.9812393,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,EL TAMBO,19256,2.534488312,-77.00511207,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,ANDES,5034,5.604993248,-75.94128391,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,GUACARÍ,76318,3.759414991,-76.34518277,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,CHITARAQUE,15185,5.984394625,-73.42582375,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,SALADOBLANCO,41660,2.100382849,-76.22897871,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+RISARALDA,QUINCHÍA,66594,5.323906864,-75.71339683,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CALDAS,SAMANÁ,17662,5.519692873,-74.99718577,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+SANTANDER,PÁRAMO,68533,6.416631131,-73.17148232,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+TOLIMA,LÍBANO,73411,4.877936755,-75.04763076,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,CAÑASGORDAS,5138,6.814950023,-76.02689632,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,PITALITO,41551,1.848217185,-76.05217643,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CALDAS,ANSERMA,17042,5.20029922,-75.75289078,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+RISARALDA,SANTUARIO,66687,5.076100313,-76.02286946,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,ISNOS,41359,1.945591321,-76.18204722,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,GIGANTE,41306,2.371781539,-75.51699754,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CESAR,PUEBLO BELLO,20570,10.41736874,-73.61450632,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+HUILA,SAN AGUSTÍN,41668,1.924165493,-76.4165655,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,PAICOL,41518,2.40689827,-75.72803027,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,LA PLATA,41396,2.328076586,-76.00117299,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,BETULIA,5093,6.185783612,-75.95649246,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,DABEIBA,5234,6.992243782,-76.31426328,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,JERICÓ,5368,5.769820536,-75.76488256,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,SALGAR,5642,5.970502334,-75.98137251,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,PEQUE,5543,7.044180058,-75.88968843,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,TIBACUY,25805,4.321357899,-74.48667274,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CALDAS,PÁCORA,17513,5.500035035,-75.48245057,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,RIOFRÍO,76616,4.109500298,-76.37105443,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,LA CEJA,5376,5.992524843,-75.43086935,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,EL CARMEN DE VIBORAL,5148,5.978078841,-75.2635361,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+ANTIOQUIA,FREDONIA,5282,5.887702934,-75.67926242,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,ALMAGUER,19022,1.912440521,-76.83494519,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,HOBO,41349,2.541654161,-75.44781083,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,GARZÓN,41298,2.172441496,-75.57131243,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+HUILA,GUADALUPE,41319,1.984394016,-75.69693549,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CALDAS,SALAMINA,17653,5.370332425,-75.40962177,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+SANTANDER,TONA,68820,7.170891099,-72.93970443,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,ZAPATOCA,68895,6.813725566,-73.30975044,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+RISARALDA,MARSELLA,66440,4.942936185,-75.7532139,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,GUAPOTÁ,68322,6.319299865,-73.33115275,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+RISARALDA,MISTRATÓ,66456,5.414078141,-75.96135387,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CALDAS,CHINCHINÁ,17174,4.974340569,-75.65954686,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CALDAS,SAN JOSÉ,17665,5.083424513,-75.8101789,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+SANTANDER,ENCINO,68264,6.079061224,-73.06206665,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NORTE DE SANTANDER,OCAÑA,54498,8.206637527,-73.33765033,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CALDAS,RIOSUCIO,17614,5.442275418,-75.75220499,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CALDAS,RISARALDA,17616,5.097563816,-75.73335166,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+ANTIOQUIA,SANTA ROSA DE OSOS,5686,6.675827825,-75.43814333,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+VALLE DEL CAUCA,OBANDO,76497,4.597588666,-75.9491997,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CALDAS,AGUADAS,17013,5.616204006,-75.4554471,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,SAN LORENZO,52687,1.542139582,-77.21872693,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,SAN PABLO,52693,1.681576627,-76.97527979,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,GUADALUPE,5315,6.861576325,-75.22591303,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CALDAS,BELALCÁZAR,17088,4.99467728,-75.81225989,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,CALDAS,5129,6.054446841,-75.62642674,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,SABANALARGA,5628,6.901000506,-75.79222754,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,CARAMANTA,5145,5.555275296,-75.63082096,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+BOYACÁ,BRICEÑO,15106,5.673229265,-73.92660705,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,GRANADA,5313,6.123380721,-75.12763646,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+ANTIOQUIA,SANTO DOMINGO,5690,6.481044132,-75.14260097,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+ANTIOQUIA,CIUDAD BOLÍVAR,5101,5.840995666,-76.01065253,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CALDAS,MANIZALES,17001,5.08343301,-75.50727881,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CALDAS,PALESTINA,17524,5.050342543,-75.66176266,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+TOLIMA,CASABIANCA,73152,5.007003948,-75.19457703,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,LA VEGA,25402,4.978619842,-74.33936061,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,RIOBLANCO,73616,3.468077548,-75.85481103,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,TULUÁ,76834,4.02840797,-76.03250379,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,NILO,25488,4.294780933,-74.614695,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CALDAS,LA MERCED,17388,5.393185716,-75.55791071,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,SUAITA,68770,6.101499739,-73.36225795,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,BETULIA,68092,7.033255886,-73.37872388,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CALDAS,FILADELFIA,17272,5.285743777,-75.58978784,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CALDAS,ARANZAZU,17050,5.265539969,-75.47392619,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,AGRADO,41013,2.26975042,-75.71632236,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,SANTA MARÍA,41676,2.926265937,-75.63359786,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,SAN BERNARDO,52685,1.529782485,-77.02070663,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+MAGDALENA,FUNDACIÓN,47288,10.45937818,-73.88406518,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,JAMUNDÍ,76364,3.213892389,-76.62760418,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,TRUJILLO,76828,4.233268116,-76.34292699,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,ATACO,73067,3.37749064,-75.61373257,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,IBAGUÉ,73001,4.451921427,-75.252591,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,FLORENCIA,19290,1.69453474,-77.08735723,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NORTE DE SANTANDER,HACARÍ,54344,8.361831987,-73.0782633,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,SANTA FÉ DE ANTIOQUIA,5042,6.535711576,-75.90426658,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,PALMAS DEL SOCORRO,68524,6.391750107,-73.28273174,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NARIÑO,EL TABLÓN DE GÓMEZ,52258,1.409430207,-76.98526959,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CALDAS,MANZANARES,17433,5.23295391,-75.15263447,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+SANTANDER,ARATOCA,68051,6.716766585,-73.01162697,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,TITIRIBÍ,5809,6.058349971,-75.79966005,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,CAJAMARCA,73124,4.406971283,-75.49745918,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,CHAPARRAL,73168,3.743693084,-75.58986634,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,PLANADAS,73555,3.09897343,-75.81684413,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,TERUEL,41801,2.851852692,-75.75988934,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,LINARES,52411,1.395173084,-77.52093774,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,VIOTÁ,25878,4.436054105,-74.48543339,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CUNDINAMARCA,LA PALMA,25394,5.333400646,-74.40807863,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+RISARALDA,PEREIRA,66001,4.803662773,-75.79579093,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,LA UNIÓN,76400,4.537937391,-76.10328983,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+MAGDALENA,ARACATACA,47053,10.64490877,-73.87972257,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+BOYACÁ,LA VICTORIA,15401,5.507008121,-74.24162727,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,TÁMESIS,5789,5.673758571,-75.70979974,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,SUCRE,68773,5.983203734,-73.95936235,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,VILLA CARO,54871,7.936293173,-72.98759418,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,BOLÍVAR,19100,1.853951938,-76.96337454,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,TIMBÍO,19807,2.369625312,-76.71051932,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+MAGDALENA,CIÉNAGA,47189,10.85754552,-74.02500493,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+HUILA,ACEVEDO,41006,1.709114446,-75.99664184,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CAUCA,PIENDAMÓ - TUNÍA,19548,2.702420026,-76.53770455,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CAUCA,JAMBALÓ,19364,2.84981013,-76.31124919,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+MAGDALENA,SANTA MARTA,47001,11.12189436,-73.88527855,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CAUCA,TORIBÍO,19821,2.975771999,-76.20331566,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,DOLORES,73236,3.597863274,-74.80256674,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,NEIVA,41001,2.993360046,-75.27236232,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,SUAZA,41770,1.870992095,-75.80798471,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NORTE DE SANTANDER,CONVENCIÓN,54206,8.873159895,-73.20007769,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,COLOMBIA,41206,3.262763564,-74.78516117,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,ARBOLEDAS,54051,7.586048164,-72.91705315,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,CONFINES,68209,6.342314443,-73.25014013,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,ARGELIA,5055,5.708114524,-75.09469795,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CASANARE,SÁCAMA,85315,6.049906435,-72.21076163,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,ANGELÓPOLIS,5036,6.121430303,-75.71594966,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,BETANIA,5091,5.727081285,-75.98689107,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,JARDÍN,5364,5.574444339,-75.81842575,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CASANARE,TÁMARA,85400,5.878927424,-72.20067822,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,OIBA,68500,6.225596216,-73.27961515,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+RISARALDA,PUEBLO RICO,66572,5.286295408,-76.07359421,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,CURITÍ,68229,6.608966483,-73.05897888,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,POPAYÁN,19001,2.471704362,-76.59194419,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,INZÁ,19355,2.499058783,-76.13762531,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,ANGOSTURA,5038,6.861498764,-75.358316,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,EL COLEGIO,25245,4.556947085,-74.42658478,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,TOTORÓ,19824,2.475213085,-76.39675937,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,SAN ANTONIO,73675,3.926088268,-75.50991004,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,FUSAGASUGÁ,25290,4.323534028,-74.38859114,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+VALLE DEL CAUCA,BOLÍVAR,76100,4.393118861,-76.34982039,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,VALLE DE SAN JUAN,73854,4.182125647,-75.17148237,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,ROVIRA,73624,4.216730954,-75.34758364,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+NARIÑO,ALBÁN,52019,1.469854084,-77.06880947,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,CUCUTILLA,54223,7.502182366,-72.79703447,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,SAN BERNARDO,25649,4.140958464,-74.35397692,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CALDAS,VILLAMARÍA,17873,4.940211591,-75.43544014,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,PIEDECUESTA,68547,6.97082104,-73.01481196,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,YACOPÍ,25885,5.591910157,-74.36480865,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,CHAGUANÍ,25168,4.95425175,-74.63090139,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CALDAS,SUPÍA,17777,5.45295802,-75.64035705,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+SANTANDER,PINCHOTE,68549,6.513892626,-73.17570986,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,CAJIBÍO,19130,2.643209848,-76.70138914,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,EL ÁGUILA,76243,4.917562873,-76.06601001,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,CAICEDONIA,76122,4.308997973,-75.83672567,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,PUEBLORRICO,5576,5.80970186,-75.86076667,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,ROSAS,19622,2.260421954,-76.74582033,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CALDAS,MARQUETALIA,17444,5.309142491,-75.04117892,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CAUCA,SANTANDER DE QUILICHAO,19698,2.984467338,-76.49873145,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,URAMITA,5842,6.913916924,-76.13318514,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CALDAS,PENSILVANIA,17541,5.407187836,-75.16683996,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,SAN FRANCISCO,25658,4.964100703,-74.27217129,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,NARIÑO,5483,5.581275312,-75.19457019,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+SANTANDER,SOCORRO,68755,6.462088241,-73.24436001,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CESAR,VALLEDUPAR,20001,10.21890277,-73.45784764,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,OCAMONTE,68498,6.355368858,-73.12211833,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,COCORNÁ,5197,6.005593074,-75.16015403,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,SAN CALIXTO,54670,8.414441404,-73.2176038,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,SEVILLA,76736,4.193411919,-75.88818163,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+HUILA,TIMANÁ,41807,1.950715226,-75.91757649,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,SANTA BÁRBARA,5679,5.878984956,-75.58330371,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,BRICEÑO,5107,7.111788462,-75.56223474,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CUNDINAMARCA,VERGARA,25862,5.131267542,-74.30979229,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+HUILA,ALGECIRAS,41020,2.49785068,-75.29134946,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+RISARALDA,LA CELIA,66383,4.988127679,-76.00822678,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NORTE DE SANTANDER,CÁCHIRA,54128,7.684188896,-73.12939481,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,ALCALÁ,76020,4.6788971,-75.78297932,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+META,URIBE,50370,3.047726858,-74.43066134,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,ARBELÁEZ,25053,4.232786985,-74.39576291,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,YOTOCO,76890,3.904130354,-76.39080435,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,SAN PEDRO,76670,3.98143244,-76.20836168,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,SOPETRÁN,5761,6.520164552,-75.74580903,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,ABEJORRAL,5002,5.803728154,-75.43847353,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+ANTIOQUIA,OLAYA,5501,6.611418083,-75.77567097,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,GUADALAJARA DE BUGA,76111,3.819854318,-75.98312419,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAQUETÁ,FLORENCIA,18001,1.749138704,-75.55823906,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,YALÍ,5885,6.716870679,-74.75565002,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+HUILA,TARQUI,41791,2.130280544,-75.87534845,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,PALESTINA,41530,1.68458076,-76.1478559,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NORTE DE SANTANDER,TOLEDO,54820,7.225864961,-72.30593418,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+RISARALDA,GUÁTICA,66318,5.320295966,-75.80436659,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+ANTIOQUIA,FRONTINO,5284,6.691364773,-76.33199656,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,DAGUA,76233,3.649822218,-76.72039347,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,SAN GIL,68679,6.550778765,-73.11887911,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,EBÉJICO,5240,6.326444922,-75.78331175,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,PATÍA,19532,2.157983906,-77.0465762,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,SAN SEBASTIÁN,19693,1.856261815,-76.71652424,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+ANTIOQUIA,HELICONIA,5347,6.214511788,-75.74971002,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,SAN JERÓNIMO,5656,6.438300409,-75.70310727,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,SANTIAGO,54680,7.889234454,-72.7182541,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,PÁEZ,19517,2.733887702,-75.99368264,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,CALDONO,19137,2.803845691,-76.42719377,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,PEÑOL,5541,6.232396368,-75.22350906,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,NÁTAGA,41483,2.576066285,-75.78693757,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,LA UNIÓN,52399,1.619697376,-77.14284622,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+RISARALDA,SANTA ROSA DE CABAL,66682,4.833789828,-75.54950174,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NORTE DE SANTANDER,TEORAMA,54800,8.760013794,-73.15714097,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,BUGALAGRANDE,76113,4.196852991,-76.0896103,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,LA VEGA,19397,2.053933426,-76.7588062,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,CACHIPAY,25123,4.723063341,-74.45919528,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+RISARALDA,APÍA,66045,5.139635357,-75.95353871,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,GUADUAS,25320,5.173554764,-74.64014651,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,PULÍ,25580,4.691336253,-74.68074404,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,ARMENIA,5059,6.163683758,-75.80995528,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,CONCORDIA,5209,6.057468678,-75.90014678,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,SAN VICENTE DE CHUCURÍ,68689,6.894292346,-73.53900334,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,VILLARRICA,73873,3.854384097,-74.61896623,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,MONTEBELLO,5467,5.916853903,-75.51972693,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,SAN ANDRÉS DE CUERQUÍA,5647,6.918427233,-75.6657758,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,FALAN,73270,5.079256598,-74.95703372,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+VALLE DEL CAUCA,ARGELIA,76054,4.704287864,-76.14164999,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,MORALES,19473,2.773663981,-76.74605152,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,PUENTE NACIONAL,68572,5.831129906,-73.67841815,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,VÉLEZ,68861,6.00741043,-73.69057256,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,ÍQUIRA,41357,2.691517773,-75.67383141,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CESAR,AGUSTÍN CODAZZI,20013,9.949215908,-73.22358244,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,GÓMEZ PLATA,5310,6.709562839,-75.19270291,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,ELÍAS,41244,2.022053305,-75.94430521,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,LABATECA,54377,7.218372474,-72.48281514,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,VILLAHERMOSA,73870,4.965753461,-75.15592969,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,CHACHAGÜÍ,52240,1.386497844,-77.26969022,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,TARSO,5792,5.871064557,-75.82871144,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,ANORÍ,5040,7.193110778,-75.10848954,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+RISARALDA,BELÉN DE UMBRÍA,66088,5.200398696,-75.86793893,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,LIBORINA,5411,6.723990935,-75.78300046,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,BALBOA,19075,2.084732945,-77.2088133,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,SUPATÁ,25777,5.061692703,-74.23138328,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+TOLIMA,ANZOÁTEGUI,73043,4.623390454,-75.20165423,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,SAN BENITO,68673,6.076525355,-73.55295302,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,SAN ROQUE,5670,6.466165211,-74.9450732,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+RISARALDA,BALBOA,66075,4.918349676,-75.94275386,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,PURACÉ,19585,2.262153618,-76.44826938,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,ORTEGA,73504,3.937793962,-75.27824314,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,ARBOLEDA,52051,1.480051172,-77.12985001,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,COLÓN,52203,1.636334379,-77.0473156,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,VALLE DE SAN JOSÉ,68855,6.434578919,-73.10997171,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,TORO,76823,4.638421279,-76.08106176,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,FRESNO,73283,5.186694812,-75.05228995,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+VALLE DEL CAUCA,VERSALLES,76863,4.644242641,-76.25924483,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,EL CARMEN DE CHUCURÍ,68235,6.664260002,-73.56475288,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,ANZÁ,5044,6.293546613,-75.91736927,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,SARDINATA,54720,8.215080767,-72.79580961,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,OPORAPA,41503,2.061191362,-76.04110289,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+QUINDÍO,QUIMBAYA,63594,4.610273497,-75.79205087,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,TOLEDO,5819,7.016397069,-75.71363382,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,ITUANGO,5361,7.341549718,-75.67842277,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+SANTANDER,SANTA BÁRBARA,68705,6.988084711,-72.89608933,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,BOLÍVAR,68101,6.181715586,-73.92065703,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,FLORIDA,76275,3.304104295,-76.16477307,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,PALOCABILDO,73520,5.094035737,-75.0184505,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NORTE DE SANTANDER,DURANIA,54239,7.746993206,-72.67208072,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,CUNDAY,73226,3.98252395,-74.68936908,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+ANTIOQUIA,SONSÓN,5756,5.826388779,-74.83637623,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+BOYACÁ,ZETAQUIRA,15897,5.285635983,-73.16763091,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+HUILA,TELLO,41799,3.030611777,-75.08536553,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,BUENOS AIRES,19110,2.988923885,-76.62158951,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,LA CUMBRE,76377,3.694303106,-76.58989905,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,PURIFICACIÓN,73585,3.854281614,-74.87451155,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,GINEBRA,76306,3.74410441,-76.19082004,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,CAICEDO,5125,6.423463639,-75.99351498,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,SAN ANDRÉS,68669,6.796483063,-72.81613202,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,HATO,68344,6.559878299,-73.36178841,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,AIPE,41016,3.243441923,-75.27670655,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+QUINDÍO,ARMENIA,63001,4.499501128,-75.72489985,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,SASAIMA,25718,4.946805263,-74.41230921,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CESAR,LA PAZ,20621,10.24440562,-73.07824569,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,MIRAFLORES,15455,5.150953297,-73.17896722,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NARIÑO,CONSACÁ,52207,1.209066732,-77.44063921,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,YACUANQUER,52885,1.125547916,-77.42467569,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,SAN EDUARDO,15660,5.234614686,-73.04914067,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,SIMACOTA,68745,6.494231551,-73.45910992,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,SURATÁ,68780,7.475402063,-72.98779966,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,AMAGÁ,5030,6.032921994,-75.7080031,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,YOLOMBÓ,5890,6.64442786,-75.02990266,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+SANTANDER,RIONEGRO,68615,7.474226085,-73.37246417,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,RONCESVALLES,73622,4.097861181,-75.59428027,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,CHARALÁ,68167,6.35099819,-73.06101382,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,SAN CARLOS,5649,6.193789659,-74.90732769,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,URRAO,5847,6.33534134,-76.25906482,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NORTE DE SANTANDER,LOS PATIOS,54405,7.742291094,-72.52680784,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,ZIPACÓN,25898,4.75432173,-74.38673444,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,ALEJANDRÍA,5021,6.365534125,-75.09059702,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+ANTIOQUIA,CAMPAMENTO,5134,7.036017478,-75.28766178,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,SAN CAYETANO,25653,5.314600423,-74.07232077,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,HISPANIA,5353,5.797039002,-75.90669203,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,BARBOSA,68077,5.955617327,-73.62345229,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,SALAZAR,54660,7.772747824,-72.86769959,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+QUINDÍO,GÉNOVA,63302,4.180107773,-75.76056695,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,EL CAIRO,76246,4.756063701,-76.21502826,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,CHINÁCOTA,54172,7.583353136,-72.58390978,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,SAN LUIS,5660,6.024205956,-75.0076674,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,BARBOSA,5079,6.443417935,-75.32924085,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,EL PEÑOL,52254,1.512283967,-77.43050934,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CALDAS,MARULANDA,17446,5.235585244,-75.28316648,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CUNDINAMARCA,EL PEÑÓN,25258,5.261728244,-74.30830564,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,HERVEO,73347,5.068553783,-75.24322959,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,CALI,76001,3.399043723,-76.57649259,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+VALLE DEL CAUCA,YUMBO,76892,3.595913669,-76.5109879,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,PAIME,25518,5.387647345,-74.16395696,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,MOGOTES,68464,6.492532315,-72.95834772,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CALDAS,MARMATO,17442,5.492632029,-75.60209955,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+HUILA,PALERMO,41524,2.914491967,-75.44066118,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,BURITICÁ,5113,6.80906489,-75.91206595,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,GUAYABAL DE SÍQUIMA,25328,4.866310254,-74.4767709,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,VILLAGÓMEZ,25871,5.270694636,-74.19074375,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,CORINTO,19212,3.136753606,-76.20964569,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,YARUMAL,5887,6.9881309,-75.45439957,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+BOYACÁ,MONIQUIRÁ,15469,5.863370485,-73.55852538,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,GUADALUPE,68320,6.233278248,-73.40977445,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,SAN JUAN DE RIOSECO,25662,4.814537831,-74.61525985,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,COROMORO,68217,6.234735779,-72.98176803,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,MARINILLA,5440,6.18520515,-75.30487933,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CESAR,PAILITAS,20517,8.938916143,-73.57247213,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,TIBIRITA,25807,5.084102682,-73.51362546,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,SAN ANTONIO DEL TEQUENDAMA,25645,4.599741357,-74.34490342,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,SAN VICENTE FERRER,5674,6.310387522,-75.32740163,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CUNDINAMARCA,LA MESA,25386,4.650773167,-74.47321717,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+QUINDÍO,CÓRDOBA,63212,4.395975176,-75.65132308,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,GACHETÁ,25297,4.867551134,-73.61773287,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,EL TAMBO,52260,1.43026376,-77.38311597,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,RIVERA,41615,2.79286115,-75.23536868,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,PAMPLONITA,54520,7.48287886,-72.63515401,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,PACHO,25513,5.168367634,-74.16336544,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,GUATAPÉ,5321,6.236329826,-75.15651272,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NORTE DE SANTANDER,RAGONVALIA,54599,7.595355974,-72.50756622,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,EL CARMEN,54245,8.867990035,-73.34585922,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,FLORIÁN,68271,5.801106291,-73.95524931,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,LÉRIDA,73408,4.866034592,-74.92337178,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,SUÁREZ,19780,2.936865997,-76.7458243,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,VIJES,76869,3.74365889,-76.47064718,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,LA BELLEZA,68377,5.895724341,-74.04676575,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,CONCEPCIÓN,5206,6.376106187,-75.21785901,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,ANSERMANUEVO,76041,4.795927292,-76.02963049,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,CALOTO,19142,3.062875557,-76.32127977,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,MATANZA,68444,7.348778319,-73.05438997,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,ROLDANILLO,76622,4.443571848,-76.16824249,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,TOPAIPÍ,25823,5.355688386,-74.28963994,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,PRADERA,76563,3.42063665,-76.17841841,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,PALMIRA,76520,3.558392876,-76.22779972,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,BUCARAMANGA,68001,7.155833544,-73.11156997,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,MEDELLÍN,5001,6.257590259,-75.61103107,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,ABRIAQUÍ,5004,6.627569378,-76.08597756,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,SANTA ISABEL,73686,4.740827622,-75.20069946,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,SAN SEBASTIÁN DE MARIQUITA,73443,5.235322593,-74.90668089,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,COPACABANA,5212,6.351882893,-75.50075633,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,PRADO,73563,3.729166649,-74.87247706,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+ANTIOQUIA,DONMATÍAS,5237,6.492403905,-75.42227687,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NARIÑO,TAMINANGO,52786,1.591661392,-77.32525316,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,EL PLAYÓN,68255,7.524284721,-73.18158192,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,ALBANIA,68020,5.788190519,-73.79236929,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+HUILA,CAMPOALEGRE,41132,2.658666675,-75.32943803,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,GIRALDO,5306,6.663095863,-75.94804663,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,SOTARÁ PAISPAMBA,19760,2.231820541,-76.61146633,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAUCA,LA SIERRA,19392,2.187473572,-76.78228032,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+META,LEJANÍAS,50400,3.614714873,-74.09628467,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CAUCA,SUCRE,19785,2.057735184,-76.90993965,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,GIRARDOTA,5308,6.379745895,-75.44795744,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,ARGELIA,19050,2.329337283,-77.26314906,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CUNDINAMARCA,SILVANIA,25743,4.436967141,-74.37050903,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,CISNEROS,5190,6.550065431,-75.08254116,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,GRAMALOTE,54313,7.906522991,-72.80705582,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,SAMANIEGO,52678,1.430555262,-77.69179559,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CALDAS,VICTORIA,17867,5.447542859,-74.83622502,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,LEIVA,52405,1.900862361,-77.31220073,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,CALIMA,76126,3.923271619,-76.64260484,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,CARACOLÍ,5142,6.33797388,-74.73354817,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+ANTIOQUIA,REMEDIOS,5604,6.997267375,-74.55865652,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,GUAITARILLA,52320,1.151366658,-77.53011336,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,MACANAL,15425,4.980176495,-73.29413695,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,BITUIMA,25095,4.847821091,-74.52862766,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,ANCUYA,52036,1.245254077,-77.53115777,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,BELLO,5088,6.358841086,-75.58973588,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,ENVIGADO,5266,6.154394922,-75.54686779,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,GALÁN,68296,6.671810994,-73.32467124,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,PASTO,52001,1.083605497,-77.20610074,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,EL ROSARIO,52256,1.887689437,-77.48319589,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,CHIMA,68176,6.361627641,-73.40172144,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+TOLIMA,VENADILLO,73861,4.70988172,-74.92089886,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAUCA,MIRANDA,19455,3.228235212,-76.21670827,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,ULLOA,76845,4.707718947,-75.77835903,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+HUILA,LA ARGENTINA,41378,2.156287619,-76.00679451,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,ITAGÜÍ,5360,6.179279438,-75.6142037,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,OTANCHE,15507,5.753787787,-74.19719423,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CAQUETÁ,EL PAUJÍL,18256,1.476630016,-75.20231825,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,SAN LUIS,73678,4.057271684,-75.16320806,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,VENECIA,25506,4.063342074,-74.45259796,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+META,MESETAS,50330,3.154771201,-74.12454824,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,VALPARAÍSO,5856,5.651937802,-75.63083412,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,MACHETÁ,25426,5.040349198,-73.61738241,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,CAPARRAPÍ,25148,5.381501399,-74.52123595,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NARIÑO,FUNES,52287,0.957786429,-77.39532781,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,PÁEZ,15514,5.095211035,-73.00435863,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,GUAYABETAL,25335,4.231875945,-73.83543981,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,QUIPILE,25596,4.726907976,-74.55359926,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CESAR,RÍO DE ORO,20614,8.201070245,-73.48750127,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CAQUETÁ,LA MONTAÑITA,18410,1.302860442,-75.23572732,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CESAR,LA JAGUA DE IBIRICO,20400,9.52099808,-73.32249338,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,VENECIA,5861,5.956576355,-75.77722423,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,GUACA,68318,6.9434341,-72.82369873,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,GÁMBITA,68298,5.924383558,-73.31939934,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,TENA,25797,4.666608192,-74.36764956,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,BUESACO,52110,1.315215636,-77.1163664,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,MACEO,5425,6.534573585,-74.71410854,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CAUCA,MERCADERES,19450,1.793825164,-77.18060381,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ANTIOQUIA,VEGACHÍ,5858,6.836535122,-74.7540302,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,BARAYA,41078,3.135423634,-74.95797796,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,CARTAGO,76147,4.70684716,-75.91790846,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,RETIRO,5607,6.053444254,-75.51573805,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,SAN RAFAEL,5667,6.31074453,-74.99858652,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,BUCARASICA,54109,8.079802239,-72.92919926,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,LOS ANDES,52418,1.672601269,-77.71054449,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+QUINDÍO,MONTENEGRO,63470,4.521890945,-75.81806594,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+BOYACÁ,BERBEO,15090,5.230936356,-73.12731944,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NARIÑO,SANTACRUZ,52699,1.285179376,-77.7445744,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,FÓMEQUE,25279,4.528568462,-73.79705267,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,SAN JOAQUÍN,68682,6.459879823,-72.85471883,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,AGUADA,68013,6.182208476,-73.53038541,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CASANARE,NUNCHÍA,85225,5.529181235,-72.09251937,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,CONTRATACIÓN,68211,6.303116611,-73.50211527,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+VALLE DEL CAUCA,EL DOVIO,76250,4.539979729,-76.28762701,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,VIANÍ,25867,4.914040619,-74.54936655,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CAQUETÁ,SAN VICENTE DEL CAGUÁN,18753,1.308465061,-74.19746971,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,SAN FRANCISCO,5652,5.840093731,-74.98176334,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NORTE DE SANTANDER,LA ESPERANZA,54385,7.695233593,-73.36139672,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,PANDI,25524,4.180497268,-74.4711213,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CAQUETÁ,PUERTO RICO,18592,2.018940891,-75.07308627,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+QUINDÍO,LA TEBAIDA,63401,4.426884849,-75.81927335,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+QUINDÍO,FILANDIA,63272,4.669325347,-75.67146941,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+LA GUAJIRA,LA JAGUA DEL PILAR,44420,10.4580941,-73.07209193,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,LA FLORIDA,52381,1.338034371,-77.42293041,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,JESÚS MARÍA,68368,5.872705896,-73.78997419,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+META,EL CASTILLO,50251,3.60282633,-73.89445238,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,BARICHARA,68079,6.647062543,-73.21518466,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CHOCÓ,EL CARMEN DE ATRATO,27245,5.810938364,-76.19189442,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,SANDONÁ,52683,1.288105409,-77.45670068,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NORTE DE SANTANDER,HERRÁN,54347,7.493955781,-72.49269998,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CESAR,MANAURE BALCÓN DEL CESAR,20443,10.38027852,-73.00706275,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+LA GUAJIRA,RIOHACHA,44001,11.24297214,-72.95876315,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,JORDÁN,68370,6.710814846,-73.1211236,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,EL GUACAMAYO,68245,6.236115743,-73.4977605,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+BOYACÁ,SAN JOSÉ DE PARE,15664,5.994154088,-73.54386522,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,ALVARADO,73026,4.582625784,-74.98630686,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,TOGÜÍ,15816,5.921830062,-73.48921806,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,FOSCA,25281,4.316280072,-73.95286784,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NORTE DE SANTANDER,LOURDES,54418,7.963712759,-72.8467029,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,QUETAME,25594,4.334589044,-73.85264561,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,ENCISO,68266,6.65824115,-72.68027939,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+RISARALDA,DOSQUEBRADAS,66170,4.842021144,-75.66993655,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,PACHAVITA,15511,5.148323877,-73.39951219,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOLÍVAR,SANTA ROSA DEL SUR,13688,7.772519173,-74.26272843,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,UBAQUE,25841,4.500754182,-73.97564545,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+QUINDÍO,CIRCASIA,63190,4.604845344,-75.66688449,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+BOYACÁ,CHINAVITA,15172,5.202971639,-73.34048074,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,SAN JOSÉ DE MIRANDA,68684,6.629400185,-72.73976423,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+QUINDÍO,CALARCÁ,63130,4.467879428,-75.65674719,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,CHITAGÁ,54174,7.05161677,-72.52544746,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,CHARTA,68169,7.282973001,-72.97829057,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,MOLAGAVITA,68468,6.643290559,-72.81916274,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+VALLE DEL CAUCA,ANDALUCÍA,76036,4.153314228,-76.16063341,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,SABANETA,5631,6.138305183,-75.60880599,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,MEDINA,25438,4.484437919,-73.40598487,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NORTE DE SANTANDER,SAN CAYETANO,54673,7.847872195,-72.60971203,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,DÃ©cifit Severo (< 40),Déficit Severo,Déficit (40 - 80),Déficit
+BOYACÁ,LABRANZAGRANDE,15377,5.541378132,-72.5903846,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,ALBÁN,25019,4.891121638,-74.44278432,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+BOYACÁ,PAUNA,15531,5.688801559,-74.00504122,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+SANTANDER,FLORIDABLANCA,68276,7.079704598,-73.0679925,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,TANGUA,52788,1.064078111,-77.35063491,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,CAROLINA,5150,6.754821442,-75.30590654,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+META,SAN JUAN DE ARAMA,50683,3.289851171,-73.81635243,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,VALDIVIA,5854,7.265404213,-75.40094502,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CESAR,AGUACHICA,20011,8.248735219,-73.6227405,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+TOLIMA,ARMERO,73055,5.006758956,-74.84750095,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,PROVIDENCIA,52565,1.232864821,-77.59844212,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,MELGAR,73449,4.193215498,-74.60517497,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+QUINDÍO,PIJAO,63548,4.30397934,-75.68330417,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+LA GUAJIRA,FONSECA,44279,10.8283716,-72.8018178,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+LA GUAJIRA,BARRANCAS,44078,10.94871677,-72.69696879,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CESAR,CURUMANÍ,20228,9.238771332,-73.48810861,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+TOLIMA,ICONONZO,73352,4.133276369,-74.53964257,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+QUINDÍO,BUENAVISTA,63111,4.366632382,-75.74403734,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+ANTIOQUIA,LA ESTRELLA,5380,6.137595883,-75.64895499,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+QUINDÍO,SALENTO,63690,4.611314654,-75.53092112,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,CABRERA,25120,3.91861924,-74.44615606,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,NATAGAIMA,73483,3.540518203,-75.12200999,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CESAR,LA GLORIA,20383,8.588002247,-73.61602384,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,NIMAIMA,25489,5.121445325,-74.39737048,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+HUILA,ALTAMIRA,41026,2.07922808,-75.76858288,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,PAMPLONA,54518,7.379057623,-72.67590348,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+META,CUBARRAL,50223,3.834631516,-74.06232494,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+BOYACÁ,GARAGOA,15299,5.089466651,-73.31430272,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+BOYACÁ,GUATEQUE,15322,5.01450831,-73.48812352,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CALDAS,VITERBO,17877,5.047822054,-75.879297,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,QUÍPAMA,15580,5.595729831,-74.26857067,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,CÁQUEZA,25151,4.402259457,-73.94482435,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,CAMPOHERMOSO,15135,5.006862536,-73.1446703,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+BOYACÁ,RONDÓN,15621,5.379947879,-73.19650995,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,UBALÁ,25839,4.803805182,-73.47654604,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CESAR,BECERRIL,20045,9.727732939,-73.25250522,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+VALLE DEL CAUCA,EL CERRITO,76248,3.656072873,-76.30841784,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,GAMA,25299,4.723573464,-73.60054441,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,PAYA,15533,5.621242742,-72.3692906,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NORTE DE SANTANDER,BOCHALEMA,54099,7.608509339,-72.65951909,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+BOYACÁ,COPER,15212,5.452461072,-74.05996578,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+RISARALDA,LA VIRGINIA,66400,4.904704187,-75.85208162,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CAQUETÁ,EL DONCELLO,18247,1.713734697,-75.26878109,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+HUILA,TESALIA,41797,2.526855132,-75.68259642,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+LA GUAJIRA,HATONUEVO,44378,11.09905582,-72.73842427,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+BOYACÁ,PISBA,15550,5.768131812,-72.43993232,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,ALMEIDA,15022,4.954825081,-73.38813425,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,SAN MIGUEL,68686,6.568121541,-72.64322497,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,VILLETA,25875,5.011670402,-74.48764746,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+VALLE DEL CAUCA,RESTREPO,76606,3.806494973,-76.53489853,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+META,VILLAVICENCIO,50001,4.09166877,-73.49291595,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,GÜEPSA,68327,6.04656148,-73.57847854,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,SANTANA,15686,6.057614971,-73.48974828,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NARIÑO,TÚQUERRES,52838,1.134440523,-77.63073238,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,MANTA,25436,4.976881151,-73.56313741,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,GACHALÁ,25293,4.65495513,-73.51055381,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,GUTIÉRREZ,25339,4.166089563,-74.0246527,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CESAR,GONZÁLEZ,20310,8.405516522,-73.37537309,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,ÁBREGO,54003,8.019834481,-73.15850485,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,ANOLAIMA,25040,4.789313614,-74.46194256,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,JERUSALÉN,25368,4.571350254,-74.68915854,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,CHOACHÍ,25181,4.578183896,-73.95290054,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,SOMONDOCO,15761,4.970974064,-73.42878785,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,ONZAGA,68502,6.335194548,-72.81205838,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,MALLAMA,52435,1.155947016,-77.84664646,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+BOYACÁ,SAN PABLO DE BORBUR,15681,5.677345066,-74.11403749,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,MÁLAGA,68432,6.720222349,-72.73841091,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,SAN LUIS DE GACENO,15667,4.798203543,-73.13397018,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+BOYACÁ,MARIPÍ,15442,5.569810633,-74.02003127,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+BOYACÁ,GUAYATÁ,15325,4.931424341,-73.49663372,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NORTE DE SANTANDER,LA PLAYA,54398,8.256757875,-73.18789327,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+BOYACÁ,MUZO,15480,5.539429272,-74.11177139,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+BOYACÁ,BUENAVISTA,15109,5.489399419,-73.95066255,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+SANTANDER,LA PAZ,68397,6.21737437,-73.62977195,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+BOYACÁ,TUNUNGUÁ,15832,5.720301516,-73.94330927,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,GUAVATÁ,68324,5.944894844,-73.72173671,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,NOCAIMA,25491,5.066110761,-74.38975476,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CUNDINAMARCA,TOCAIMA,25815,4.452072974,-74.64864406,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+BOYACÁ,PAJARITO,15518,5.382328949,-72.69672674,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+VALLE DEL CAUCA,LA VICTORIA,76403,4.483511142,-75.96677303,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,QUEBRADANEGRA,25592,5.09998103,-74.4945107,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+BOYACÁ,SANTA MARÍA,15690,4.823002556,-73.25377506,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+LA GUAJIRA,SAN JUAN DEL CESAR,44650,10.81311496,-73.08659986,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,JUNÍN,25372,4.705170789,-73.69247873,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,MURILLO,73461,4.826734468,-75.21993987,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NORTE DE SANTANDER,EL ZULIA,54261,8.081200092,-72.63152118,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,VILLANUEVA,68872,6.685867326,-73.16396916,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,CHIPATÁ,68179,6.067944658,-73.63239132,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,LA PEÑA,25398,5.20459882,-74.40786611,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CASANARE,MONTERREY,85162,4.841308642,-72.8473434,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NORTE DE SANTANDER,VILLA DEL ROSARIO,54874,7.718635863,-72.48361176,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,CAPITANEJO,68147,6.520200095,-72.67435203,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CUNDINAMARCA,ANAPOIMA,25035,4.559962881,-74.5256953,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CESAR,CHIMICHAGUA,20175,9.27797765,-73.84697903,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+CESAR,CHIRIGUANÁ,20178,9.426648354,-73.54797894,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,BELTRÁN,25086,4.791721105,-74.71491399,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CESAR,SAN ALBERTO,20710,7.769815987,-73.47218888,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+CUNDINAMARCA,APULO,25599,4.537711619,-74.59124656,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CESAR,PELAYA,20550,8.764116734,-73.63295546,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CESAR,SAN MARTÍN,20770,7.937788454,-73.54436312,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,EL PEÑÓN,68250,6.123389691,-74.00040397,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,PARATEBUENO,25530,4.368158959,-73.2416614,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+LA GUAJIRA,DIBULLA,44090,11.09029715,-73.43568788,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CUNDINAMARCA,PASCA,25535,4.293733611,-74.27396924,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+LA GUAJIRA,EL MOLINO,44110,10.63669646,-72.8858431,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,CEPITÁ,68160,6.752465533,-72.92924629,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+LA GUAJIRA,VILLANUEVA,44874,10.58364755,-72.97520286,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+BOLÍVAR,MORALES,13473,8.253700061,-73.9713459,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+META,EL DORADO,50270,3.706969785,-73.83161892,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NARIÑO,CUMBITARA,52233,1.72559011,-77.59281637,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,SAN PEDRO DE CARTAGO,52694,1.536823494,-77.10140325,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,POLICARPA,52540,1.735354202,-77.48134359,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NARIÑO,ILES,52352,0.980534037,-77.5186573,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NARIÑO,IMUÉS,52354,1.07287697,-77.50150864,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+META,CUMARAL,50226,4.232526389,-73.31477539,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+META,RESTREPO,50606,4.204310977,-73.50226037,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+NORTE DE SANTANDER,SAN JOSÉ DE CÚCUTA,54001,8.112041811,-72.48862641,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,CÁCOTA,54125,7.270560088,-72.65212153,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,CABRERA,68121,6.562543673,-73.25034892,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+TOLIMA,COYAIMA,73217,3.775490271,-75.14720213,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+SANTANDER,GIRÓN,68307,6.976734127,-73.205267,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,LANDÁZURI,68385,6.385234814,-73.78760899,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+SANTANDER,LEBRIJA,68406,7.204060063,-73.29138097,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+SANTANDER,LOS SANTOS,68418,6.812162934,-73.10785086,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+PUTUMAYO,MOCOA,86001,1.26070915,-76.66584349,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+SANTANDER,SANTA HELENA DEL OPÓN,68720,6.40890734,-73.58206609,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal
+NARIÑO,RICAURTE,52612,1.147671848,-78.05811118,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+TOLIMA,SUÁREZ,73770,3.969210629,-74.84448738,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit
+LA GUAJIRA,URUMITA,44855,10.4947021,-72.98623991,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+CESAR,EL COPEY,20238,10.19995356,-73.91282064,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+NORTE DE SANTANDER,EL TARRA,54250,8.678263671,-73.0317597,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit
+ARAUCA,TAME,81794,6.390650479,-71.79178647,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+META,ACACÍAS,50006,3.943383008,-73.57135162,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
+CASANARE,LA SALINA,85136,6.178282373,-72.34693377,Normal (80 - 120),Normal,Normal (80 - 120),Normal,Déficit (40 - 80),Déficit,Normal (80 - 120),Normal
